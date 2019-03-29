@@ -47,7 +47,7 @@ class ViewController: UIViewController {
     
     @IBAction func searchButtonPressed(_ sender: UIButton) {
     
-        if textField.text == "123" {
+        if textField.text == "https://s3-ap-northeast-1.amazonaws.com/mid-exam/Video/taeyeon.mp4" {
             
             loadVideo()
             
